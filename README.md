@@ -2,7 +2,7 @@
 This is a Java program that acts like a simple guide of how to program in Java. The goal was to create a Java program with IntelliJ and host it remotely on GitHub.
 
 Here is a short video demoing and describing the code:
-[Software Demo Video](To Be Added)
+[Software Demo Video](https://www.youtube.com/watch?v=tE2eUQxphwc)
 
 # Development Environment
 - IntelliJ IDEA Community Edition 2023.2.2
