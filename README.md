@@ -1,6 +1,7 @@
 # Overview
-This is a simple Java program that prints "Hello World". The goal was to create a program with IntelliJ and host it remotely on GitHub. Additional content will be added to make this project into more of a guide of how programming concepts work in Java (input/output, reading from a file, for/while loops, etc).
+This is a Java program that acts like a simple guide of how to program in Java. The goal was to create a Java program with IntelliJ and host it remotely on GitHub.
 
+Here is a short video demoing and describing the code:
 [Software Demo Video](To Be Added)
 
 # Development Environment
@@ -10,3 +11,4 @@ This is a simple Java program that prints "Hello World". The goal was to create 
 # Useful Websites
 * [IntelliJ Installation Guide](https://www.jetbrains.com/help/idea/installation-guide.html)
 * [W3 School's Java Section](https://www.w3schools.com/java/java_intro.asp)
+* [ASCII Table](https://www.lookuptables.com/text/ascii-table)
